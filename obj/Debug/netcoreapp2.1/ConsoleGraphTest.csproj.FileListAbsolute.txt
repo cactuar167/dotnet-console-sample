@@ -1,0 +1,11 @@
+C:\temp\Jackett\ConsoleGraphTest\bin\Debug\netcoreapp2.1\ConsoleGraphTest.deps.json
+C:\temp\Jackett\ConsoleGraphTest\bin\Debug\netcoreapp2.1\ConsoleGraphTest.runtimeconfig.json
+C:\temp\Jackett\ConsoleGraphTest\bin\Debug\netcoreapp2.1\ConsoleGraphTest.runtimeconfig.dev.json
+C:\temp\Jackett\ConsoleGraphTest\bin\Debug\netcoreapp2.1\ConsoleGraphTest.dll
+C:\temp\Jackett\ConsoleGraphTest\bin\Debug\netcoreapp2.1\ConsoleGraphTest.pdb
+C:\temp\Jackett\ConsoleGraphTest\obj\Debug\netcoreapp2.1\ConsoleGraphTest.csprojAssemblyReference.cache
+C:\temp\Jackett\ConsoleGraphTest\obj\Debug\netcoreapp2.1\ConsoleGraphTest.csproj.CoreCompileInputs.cache
+C:\temp\Jackett\ConsoleGraphTest\obj\Debug\netcoreapp2.1\ConsoleGraphTest.AssemblyInfoInputs.cache
+C:\temp\Jackett\ConsoleGraphTest\obj\Debug\netcoreapp2.1\ConsoleGraphTest.AssemblyInfo.cs
+C:\temp\Jackett\ConsoleGraphTest\obj\Debug\netcoreapp2.1\ConsoleGraphTest.dll
+C:\temp\Jackett\ConsoleGraphTest\obj\Debug\netcoreapp2.1\ConsoleGraphTest.pdb
